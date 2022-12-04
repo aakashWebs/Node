@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tab",
+				"tableElements"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"co",
+				"col-md-3"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"t",
+				"toUpperCase"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"pri",
+				"print_r()"
+			],
+			[
+				"appen",
+				"append"
+			],
+			[
+				"appe",
+				"approve_status"
+			],
+			[
+				"col-md-",
+				"col-md-12"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"onkey",
+				"onkeyup"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"get",
+				"getAll_users"
+			],
+			[
+				"btn-se",
+				"btn-secondary"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"_S",
+				"$_SESSION"
+			],
+			[
+				"_",
+				"$_POST"
+			],
+			[
+				"json",
+				"json_encode()"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"c",
+				"col-md-3"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"ca",
+				"card-body"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"getCli",
+				"getClientExtension"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"Re",
+				"Requirements"
+			],
+			[
+				"f",
+				"form-control"
+			],
+			[
+				"custo",
+				"customer_name"
+			],
+			[
+				"caro",
+				"carousel-control-prev"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"bt",
+				"btn-warning"
+			],
+			[
+				"car",
+				"card-body"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"wh",
+				"wheat"
+			],
+			[
+				"prin",
+				"print_r()"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sm",
+				"smaller"
+			],
+			[
+				"pr",
+				"progress"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"head",
+				"headers"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"he",
+				"head"
+			],
+			[
+				"p",
+				"pre"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"cy",
+				"darkcyan"
+			],
+			[
+				"scie",
+				"scienceWonders"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/newproject/CRUD.php",
+		"/C/Program Files/Sublime Text/javascript.html",
+		"/C/xampp/htdocs/newproject/check_user.php",
+		"/C/xampp/htdocs/laravel/routes/web.php",
+		"/C/xampp/htdocs/laravel/.env",
+		"/C/xampp/htdocs/newproject/css/font-awesome.min.css",
+		"/C/xampp/htdocs/newproject/css/bootstrap.min.css",
+		"/C/xampp/htdocs/newproject/admin_panel.php",
+		"/C/xampp/htdocs/newproject/admin.html",
+		"/C/xampp/htdocs/newproject/Ajax/add_user.php",
+		"/C/xampp/htdocs/newproject/jssearch.html",
+		"/C/xampp/htdocs/newproject/test.php",
+		"/C/Program Files/Sublime Text/test.php",
+		"/C/xampp/htdocs/smarty/demo/templates/index.tpl",
+		"/C/xampp/htdocs/smarty/demo/index.php",
+		"/C/xampp/htdocs/smarty/demo/configs/test.conf",
+		"/C/xampp/htdocs/smarty/demo/templates/footer.tpl",
+		"/C/xampp/htdocs/smarty/demo/templates/header.tpl",
+		"/C/xampp/htdocs/newproject/Ajax/testuser.php",
+		"/C/xampp/htdocs/newproject/add_users.php",
+		"/C/xampp/htdocs/portfolio/aakash/app/Views/aakashWeb.php",
+		"/C/xampp/htdocs/portfolio/aakash/app/Config/App.php",
+		"/C/xampp/htdocs/newproject/Ajax/getdata.php",
+		"/C/xampp/htdocs/newproject/Ajax/getAll_users.php",
+		"/C/xampp/htdocs/newproject/Ajax/savereg_data.php",
+		"/C/xampp/htdocs/newproject/index.php",
+		"/C/xampp/htdocs/newproject/send_mail.php",
+		"/C/xampp/htdocs/newproject/index.html",
+		"/C/xampp/htdocs/newproject/approve.php",
+		"/C/xampp/htdocs/newproject/log_out.php",
+		"/C/xampp/htdocs/newproject/send_msg.php",
+		"/C/xampp/htdocs/newproject/Ajax/admin_panel.php",
+		"/C/xampp/htdocs/newproject/CRUd.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/footer.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/header.php",
+		"/C/xampp/htdocs/homeforyou/app/Controllers/Home.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/admin/Home/home_panel.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/admin/LOGIN/login.php",
+		"/C/xampp/htdocs/homeforyou/app/Controllers/LOGIN.php",
+		"/C/xampp/htdocs/homeforyou/app/Models/Crud_model.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/admin/Home/home_new.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/devid.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/template.php",
+		"/C/xampp/htdocs/homeforyou/app/Controllers/SCIENCE.php",
+		"/C/xampp/htdocs/homeforyou/app/Controllers/SENDEMAIL.php",
+		"/C/xampp/htdocs/homeforyou/app/Controllers/BaseController.php",
+		"/C/xampp/htdocs/homeforyou/app/Controllers/SignupController.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/admin/Home/home.php",
+		"/C/xampp/htdocs/homeforyou/app/Views/admin/Home/index.html",
+		"/C/xampp/htdocs/devid/app/Views/devid.php",
+		"/C/xampp/htdocs/homeforyou/app/Config/Routes.php",
+		"/C/xampp/htdocs/homeforyou/app/Config/App.php",
+		"/C/xampp/htdocs/homeforyou/app/Controllers/DEVID.php",
+		"/C/xampp/htdocs/devid/app/Views/aakashWeb.php",
+		"/D/React_Tutorial_in_Hindi_🔥🔥(1080p).mp4",
+		"/C/xampp/htdocs/devid/app/Controllers/AAKASHWEB.php",
+		"/C/xampp/htdocs/devid/app/Config/Routes.php",
+		"/C/xampp/htdocs/devid/app/Controllers/DEVID.php",
+		"/C/xampp/htdocs/devid/app/Controllers/Home.php",
+		"/C/xampp/htdocs/devid/app/Config/App.php",
+		"/C/xampp/htdocs/devid/app/Controllers/BaseController.php",
+		"/C/xampp/htdocs/nci4/app/Controllers/SENDEMAIL.php",
+		"/C/xampp/htdocs/nci4/app/Controllers/Home.php",
+		"/C/xampp/htdocs/nci4/app/Config/Email.php",
+		"/C/xampp/htdocs/nci4/app/Views/aakashWeb.php",
+		"/C/xampp/htdocs/nci4/app/Controllers/AAKASHWEB.php",
+		"/C/xampp/htdocs/nci4/app/Views/admin/demo_new.php",
+		"/C/xampp/htdocs/nci4/app/Controllers/SignupController.php",
+		"/C/xampp/htdocs/nci4/app/Models/UserModel.php",
+		"/C/xampp/htdocs/nci4/app/Views/header.php",
+		"/C/xampp/htdocs/nci4/app/Models/Crud_model.php",
+		"/C/xampp/htdocs/nci4/app/Views/registration_form.php",
+		"/C/xampp/htdocs/nci4/app/Controllers/SCIENCE.php",
+		"/C/xampp/htdocs/nci4/app/Views/admin/LOGIN/login.php",
+		"/C/xampp/htdocs/nci4/app/Controllers/LOGIN.php",
+		"/C/xampp/htdocs/nci4/app/Views/admin/scienceWonders.php",
+		"/C/xampp/htdocs/nci4/app/Controllers/BaseController.php",
+		"/C/Users/aakash/Downloads/run_results.json",
+		"/C/xampp/htdocs/nci4/app/Views/footer.php",
+		"/C/Users/aakash/AppData/Local/Temp/run_results.json",
+		"/C/xampp/htdocs/CodeIgniter/index.php",
+		"/C/Users/aakash/AppData/Local/Microsoft/Windows/INetCache/IE/9L74RTT9/List_of_SQL_Commands___Codecademy[1].mhtml"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
